@@ -1,4 +1,4 @@
 ---
 rust:
-  directory: deps/nostr-sdk-ffi
+  directory: deps/bdk-ffi
   manifestPath: Cargo.toml
